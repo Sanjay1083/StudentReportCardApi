@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentReportCardAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ff5383db421789051d1f3938fece1723a2bb29")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentReportCardAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentReportCardAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
